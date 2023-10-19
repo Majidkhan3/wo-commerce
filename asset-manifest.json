@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wo-commerce/static/css/main.399f647b.css",
+    "main.js": "/wo-commerce/static/js/main.6662db60.js",
+    "index.html": "/wo-commerce/index.html",
+    "main.399f647b.css.map": "/wo-commerce/static/css/main.399f647b.css.map",
+    "main.6662db60.js.map": "/wo-commerce/static/js/main.6662db60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399f647b.css",
+    "static/js/main.6662db60.js"
+  ]
+}
